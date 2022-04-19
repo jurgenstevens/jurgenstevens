@@ -1,6 +1,6 @@
 <div align="center">
   <h2>About Me</h2>
-  <h3>Chicago-based Full Stack Software Developer with 3+ years of self taught, immersive bootcamp, and instructional experience. I want to put my programming skills to good use and be a part of something that has a beneficial impact on peoples’ lives.<h3/>
+  <h3>Chicago-based Full Stack Software Developer with 3+ years of self taught, immersive bootcamp, and instructional experience. Let's talk code and skateboarding.<h3/>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=jurgenstevens&hide=contribs,prs&include_all_commits=true&count_private=true&theme=dark" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jurgenstevens&layout=compact&theme=dark" />
   <div>

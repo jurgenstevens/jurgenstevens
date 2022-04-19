@@ -1,4 +1,6 @@
 <div align="center">
+  <h2>About Me</h2>
+  <h3>Chicago-based Full Stack Software Developer with 3+ years of self taught, immersive bootcamp, and instructional experience. I want to put my programming skills to good use and be a part of something that has a beneficial impact on peoples’ lives.<h3/>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=jurgenstevens&hide=contribs,prs&include_all_commits=true&count_private=true&theme=dark" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jurgenstevens&layout=compact&theme=dark" />
   <div>
@@ -14,7 +16,6 @@
       <a href="#"><img src="https://img.shields.io/badge/-Express.js-404D59?style=flat-square&for-the-badge" />  </a>
       <a href="#"><img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql" />  </a>
       <a href="#"><img src="https://img.shields.io/badge/-MongoDB-white?style=flat-square&logo=mongodb" />  </a>
-      <a href="#"><img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws" />  </a>
       <a href="#"><img src="https://img.shields.io/badge/-jQuery-0769AD?style=flat-square&logo=jQuery" />  </a>
       <a href="#"><img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap" />  </a>
       <a href="#"><img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git" />  </a>
@@ -27,12 +28,13 @@
     </div>
     <div>
       <h3>Contact Me:</h3>
-        <a href="https://www.jurgennstevens.dev/"><img src="https://img.shields.io/badge/-Personal_Website-000000?style=flat-square&logo=Coderwall&logoColor=white" />  
         </a>
         <a href="https://www.linkedin.com/in/jurgenstevens/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white" />
         </a>
         <a href="https://github.com/jurgenstevens"><img src="https://img.shields.io/github/followers/jurgenstevens?color=black&label=GitHub&logo=GitHub&logoColor=white&style=flat-square" />
         </a>
         <a href="mailto: benjamintmanley@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white" />         </a>
+        <br />
+        <a href="https://www.jurgennstevens.dev/"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" />  
     </div>
 </div>

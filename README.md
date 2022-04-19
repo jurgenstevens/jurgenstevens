@@ -4,7 +4,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=jurgenstevens&hide=contribs,prs&include_all_commits=true&count_private=true&theme=dark" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jurgenstevens&layout=compact&theme=dark" />
   <div>
-      <h3>Under My Belt:</h3>
+      <h3>Under My Belt</h3>
       <a href="#"><img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />  </a>
       <a href="#"><img src="https://img.shields.io/badge/Notion-%23000000.svg?style=flat-square&for-the-badge&logo=notion&logoColor=white" />  </a>
       <a href="#"><img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" />  </a>
@@ -27,7 +27,7 @@
       <a href="#"><img src="https://img.shields.io/badge/-Zoom-2D8CFF?style=flat-square&logo=zoom&logoColor=white" />  </a>
     </div>
     <div>
-      <h3>Contact Me:</h3>
+      <h3>Contact Me</h3>
         </a>
         <a href="https://www.linkedin.com/in/jurgenstevens/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white" />
         </a>

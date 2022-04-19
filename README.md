@@ -33,7 +33,6 @@
         </a>
         <a href="https://github.com/jurgenstevens"><img src="https://img.shields.io/github/followers/jurgenstevens?color=black&label=GitHub&logo=GitHub&logoColor=white&style=flat-square" />
         </a>
-        <a href="mailto: benjamintmanley@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white" />         </a>
         <br />
         <a href="https://www.jurgennstevens.dev/"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" />  
     </div>

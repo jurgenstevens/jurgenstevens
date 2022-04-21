@@ -33,7 +33,7 @@
         </a>
         <a href="https://www.linkedin.com/in/jurgenstevens/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white" />
         </a>
-        <a href="https://github.com/jurgenstevens"><img src="https://img.shields.io/github/followers/jurgenstevens?color=black&label=GitHub&logo=GitHub&logoColor=white&style=flat-square" />
+        <a href="https://github.com/jurgenstevens?tab=repositories"><img src="https://img.shields.io/github/followers/jurgenstevens?color=black&label=GitHub&logo=GitHub&logoColor=white&style=flat-square" />
         </a>
         <br />
         <a href="https://www.jurgenstevens.dev/"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" />  

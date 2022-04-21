@@ -2,7 +2,7 @@
   <h2>About Me</h2>
   <h3>Chicago-based Full Stack Software Developer with 3+ years of self taught, immersive bootcamp, and instructional experience. Let's talk code and skateboarding.<h3/>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=jurgenstevens&hide=contribs,prs&include_all_commits=true&count_private=true&theme=dark" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jurgenstevens&hide=html&layout=compact&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jurgenstevens&hide=html,mako,procfile&layout=compact&theme=dark" />
   <div>
       <h3>Under My Belt</h3>
       <a href="#"><img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git" />  </a>

@@ -20,7 +20,7 @@
       <a href="#"><img src="https://img.shields.io/badge/-Python3-3776AB?style=flat-square&logo=Python&logoColor=white" />  </a>
       <a href="#"><img src="https://img.shields.io/badge/-Express.js-404D59?style=flat-square&for-the-badge" />  </a>
       <a href="#"><img src="https://img.shields.io/badge/-MongoDB-white?style=flat-square&logo=mongodb" />  </a>
-      <a href"#"><img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" /> <a/>
+      <a href"#"><img src="https://img.shields.io/badge/Django-092E20?style=flate-square&logo=django&logoColor=green" /> <a/>
       <a href="#"><img src="https://img.shields.io/badge/Flask-%23000.svg?style=flat-square&logo=flask&logoColor=white" />  </a>
       <a href="#"><img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql" />  </a>
       <a href="#"><img src="https://img.shields.io/badge/-jQuery-0769AD?style=flat-square&logo=jQuery" />  </a>

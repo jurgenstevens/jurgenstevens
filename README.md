@@ -1,6 +1,6 @@
 <div align="center">
   <h2>About Me</h2>
-  <h3>Chicago-based Full Stack Software Developer and an Instructional Associate developing students into software developers at General Assembly. Let's talk code and skateboarding.<h3/>
+  <h3>Chicago-based Full Stack Software Developer and an Instructional Associate developing students into software developers at General Assembly. Let's talk code and skateboarding!<h3/>
 <!--   <img align="center" src="https://github-readme-stats.vercel.app/api?username=jurgenstevens&hide=contribs,issues&include_all_commits=true&count_private=true&theme=dark" /> -->
 <!--   <br/> -->
   <div>
